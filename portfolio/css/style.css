@@ -162,6 +162,7 @@ img {
 ---------------------------------*/
 .works-list {
   display: flex;
+  justify-content: center;
   flex-wrap: wrap;
   margin-bottom: -40px;
 }
@@ -540,3 +541,4 @@ img {
     margin-bottom: 20px;
   }
 }
+
